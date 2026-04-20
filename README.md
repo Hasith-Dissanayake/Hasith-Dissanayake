@@ -38,7 +38,7 @@
 
 <h4 align="center">Backend & Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,mysql,mongodb,postgres,sqlite,mariadb,oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,mysql,mongodb,postgres,sqlite" />
 </p>
 
 <h4 align="center">DevOps & Cloud (BaaS)</h4>
