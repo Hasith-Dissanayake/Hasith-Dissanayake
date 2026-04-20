@@ -6,22 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=hasith-dissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="hasith-dissanayake" />
 </p>
 
-<table align="center">
-<tr>
-<td width="50%" align="left">
-
-- 🌱 Currently learning **Algorithmic Trading & Cloud**
-- 💬 Ask me about **React, Node.js, MySQL & DevOps**
-- 🚀 Working on **Mahesh ERP System**
-- 🏠 Based in **Sri Lanka**
-
-</td>
-<td width="50%" align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
-</td>
-</tr>
-</table>
-
 ---
 
 <h2 align="center">Skills & Technologies</h2>
