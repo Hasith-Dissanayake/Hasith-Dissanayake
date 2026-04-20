@@ -46,11 +46,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp,nginx,jenkins,linux,firebase" />
 </p>
 
-<h4 align="center">AI/ML, Testing & Data Viz</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,selenium,cypress,chartjs" />
-</p>
-
 <h4 align="center">Software, Tools & Hardware</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode,arduino,unity" />
