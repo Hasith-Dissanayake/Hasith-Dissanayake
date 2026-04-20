@@ -1,93 +1,85 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
-
-<h1 align="center">Hi 👋, I'm Hasith Dissanayaka</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | Cloud & DevOps Engineer 👨‍💻</h3>
+<h1 align="center">Hi 👋, I'm Hasith Dissanayake</h1>
+<h3 align="center">Full Stack Developer | Cloud & DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasith-dissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="hasith-dissanayake" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hasith-dissanayake&theme=radical" alt="hasith-dissanayake" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasith-dissanayake" alt="hasith-dissanayake" /></a>
+</p>
+
+<div align="center">
+  
+  🌱 I’m currently learning **Advanced Algorithmic Trading & Cloud Infrastructure**
+  
+  💬 Ask me about **React, Node.js, MySQL, and DevOps**
+  
+</div>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/hasith_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasith_1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasith-dissanayake" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasith-dissanayake" height="30" width="40" /></a>
 </p>
 
 ---
 
-<picture>
-  <a href="https://github.com/Hasith-Dissanayake" alt="Developer">
-    <img src="https://images.weserv.nl/?url=https://github.com/Hasith-Dissanayake.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="280">
-  </a>
-</picture>
+<h2 align="center">Skills & Technologies</h2>
 
-```js
-"use creativity";
-import { Person } from "Sri Lanka";
-
-new Person({
-  name: "Hasith Dissanayaka",
-  title: "Full Stack Developer & Algorithmic Trader",
-  workingOn: "Mahesh ERP System",
-  learning: "Advanced Algorithmic Trading & Cloud Infrastructure",
-  status: "Available for Freelance Projects"
-}).introduce();
-
-
-<br />
-
-<h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
-
+<h4 align="center">Programming Languages</h4>
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,py,java,php,c,cs,go%26theme%3Ddark" alt="Languages" />
-<br /><br />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,html,css,tailwind,bootstrap,redux,sass%26theme%3Ddark" alt="Frontend" />
-<br /><br />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,nestjs,spring,mysql,mongodb,postgres,sqlite%26theme%3Ddark" alt="Backend & DB" />
-<br /><br />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,kubernetes,aws,azure,nginx,linux,git,postman,figma%26theme%3Ddark" alt="DevOps & Tools" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </p>
 
-<br />
-
-<h2 align="center">📱 Mobile & Other</h2>
+<h4 align="center">Frontend Development</h4>
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dandroid,flutter,kotlin,reactnative,firebase,arduino,unity%26theme%3Ddark" alt="Mobile" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-<div align="center">
-<a href="https://linkedin.com/in/hasith-dissanayake" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-</a>
-<a href="https://twitter.com/hasith_1" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DTwitter%26logo%3Dtwitter%26label%3D%26color%3D1DA1F2%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="twitter" />
-</a>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Hasith-Dissanayake" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DUpwork%26logo%3Dupwork%26label%3D%26color%3D14a800%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="upwork" />
-</a>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
+<h4 align="center">Backend & Database</h4>
 <p align="center">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Hasith-Dissanayake">
-<img width="100%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHasith-Dissanayake%26theme%3Dreact-dark%26area%3Dtrue%26hide_border%3Dtrue" alt="contribution graph" />
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHasith-Dissanayake%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" alt="stats card" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHasith-Dissanayake%26theme%3Dradical" alt="streak stats" />
-</div>
+<h4 align="center">Mobile & DevOps</h4>
+<p align="center">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</p>
 
-<br />
+---
 
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasith-dissanayake&show_icons=true&locale=en&layout=compact" alt="hasith-dissanayake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasith-dissanayake&show_icons=true&locale=en" alt="hasith-dissanayake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasith-dissanayake&" alt="hasith-dissanayake" />
+</p>
