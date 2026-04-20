@@ -5,18 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=hasith-dissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="hasith-dissanayake" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasith-dissanayake" alt="hasith-dissanayake" /></a>
-</p>
-
-<div align="center">
-  
-  🌱 I’m currently learning **Advanced Algorithmic Trading & Cloud Infrastructure**
-  
-  💬 Ask me about **React, Node.js, MySQL, and DevOps**
-  
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hasith_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasith_1" height="30" width="40" /></a>
