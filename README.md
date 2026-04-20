@@ -39,13 +39,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasith-dissanayake&show_icons=true&locale=en&layout=compact" alt="hasith-dissanayake" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasith-dissanayake&show_icons=true&locale=en" alt="hasith-dissanayake" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasith-dissanayake&" alt="hasith-dissanayake" />
