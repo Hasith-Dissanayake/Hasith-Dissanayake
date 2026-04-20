@@ -27,7 +27,7 @@
 
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,php,ruby" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,php,ruby,c,cpp,cs,bash" />
 </p>
 
 <h4 align="center">Frontend Development</h4>
@@ -37,17 +37,22 @@
 
 <h4 align="center">Backend & Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,mysql,mongodb,postgres,sqlite,mariadb,oracle" />
 </p>
 
-<h4 align="center">DevOps & Cloud</h4>
+<h4 align="center">DevOps & Cloud (BaaS)</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,nginx,jenkins,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp,nginx,jenkins,linux,firebase" />
 </p>
 
-<h4 align="center">Software & Tools</h4>
+<h4 align="center">AI/ML, Testing & Data Viz</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode,unity,firebase" />
+  <img src="https://skillicons.dev/icons?i=pandas,selenium,cypress,chartjs" />
+</p>
+
+<h4 align="center">Software, Tools & Hardware</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode,arduino,unity" />
 </p>
 
 ---
