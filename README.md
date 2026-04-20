@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasith Dissanayake</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer | Cloud & DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasith-dissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="hasith-dissanayake" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasith-dissanayake" alt="hasith-dissanayake" /></a> </p>
-
-- 🌱 I’m currently learning **Advanced Algorithmic Trading & Cloud Infrastructure**
-
-- 💬 Ask me about **React, Node.js, MySQL, and DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
